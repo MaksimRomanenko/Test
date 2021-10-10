@@ -42,7 +42,7 @@
  19. Отправить изменения на внешний репозиторий.		git push
  20. Отправить предыдущее домашнее задание по GitBush Terminal на внешний репозиторий. 
 
-		cp ~/qa/homework1_linux_terminal ~/git/test/
+		cp ~/qa/homework1_linux_terminal.xlsx ~/git/test/
 		git status
 		git -am "add homework1"
 		git push

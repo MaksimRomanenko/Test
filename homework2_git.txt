@@ -42,9 +42,9 @@
  19. Отправить изменения на внешний репозиторий.		git push
  20. Отправить предыдущее домашнее задание по GitBush Terminal на внешний репозиторий. 
 
-		cp ~/qa/HomeWork1 ~/git/test/
+		cp ~/qa/homework1_linux_terminal ~/git/test/
 		git status
-		git -am "add HomeWork1"
+		git -am "add homework1"
 		git push
 
  21. В веб интерфейсе GitHub создать файл new3.txt.

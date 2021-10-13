@@ -73,11 +73,19 @@
 		   "name": "Romanenko Maksim",
 		   "age":  49,
 		   "desired moto": "Kawasaki Ninja ZX6R 636",
+<<<<<<< HEAD:homework2_git.txt
 		   "desired sallary": "$2000",
 		   "favorite movie": "Avatar",
 		   "favorite series": "Breaking Bad",
 		   "favorite food": "Steak",
 		   "favorite season": "Summer",
+=======
+		   "desired sallary": "$2000"
+		   "favorite movie": "Avatar"
+		   "favorite series": "Breaking Bad"
+		   "favorite food": "Steak"
+		   "favorite season": "Summer"
+>>>>>>> billing:HomeWork_Git.txt
 		   "desired country": "Thailand"
 		}
 		

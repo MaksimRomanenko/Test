@@ -1,6 +1,6 @@
 1. На локальном репозитории сделать ветки для:
 - Postman		git branch postman
-- Jmeter			git branch jmeter
+- Jmeter		git branch jmeter
 - CheckLists		git branch checklists
 - Bag Reports		git branch bug_reports
 - SQL			git branch sql

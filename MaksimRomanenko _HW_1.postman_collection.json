@@ -260,23 +260,6 @@
 					"port": "5005",
 					"path": [
 						"user_info_2"
-					],
-					"query": [
-						{
-							"key": "name",
-							"value": "Maksim",
-							"disabled": true
-						},
-						{
-							"key": "age",
-							"value": "49",
-							"disabled": true
-						},
-						{
-							"key": "salary",
-							"value": "2000",
-							"disabled": true
-						}
 					]
 				}
 			},
